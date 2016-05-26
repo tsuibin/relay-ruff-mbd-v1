@@ -1,0 +1,10 @@
+{
+    "models": ["DHT11"],
+    "boards": ["ruff-mbd-v1"],
+    "inputs": {
+        "gpio": {
+            "type": "gpio",
+            "reserve" : "gpio-18/gpio"
+        }
+    }
+}

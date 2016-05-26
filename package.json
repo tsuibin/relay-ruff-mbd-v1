@@ -1,0 +1,16 @@
+{
+    "name": "cpoint",
+    "version": "0.1.0",
+    "description": "point",
+    "author": "tsuibin",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "ruff-mbd-v1": "^2.0.4",
+            "relay-1c": "^1.0.1",
+            "button-gpio": "^1.0.1",
+            "dht11": "^0.2.3",
+            "ky-016": "^1.0.6"
+        }
+    }
+}

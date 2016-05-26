@@ -1,0 +1,6 @@
+{
+	"name": "dht11",
+	"version": "0.2.3",
+	"description": "The driver for DHT11 -- A temparature and humandity sensor",
+	"author": "ruff"
+}
